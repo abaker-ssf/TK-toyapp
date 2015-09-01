@@ -15,6 +15,6 @@ describe('Controllers', function(){
 
     // tests start here
     it('should have a title with value of Login', function(){
-        expect(scope.title).toEqual("Login");
+        expect(scope.title).toEqual("login");
     });
 });
